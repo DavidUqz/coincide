@@ -1,0 +1,4 @@
+node_modules
+coverage
+benchmarks/out
+package-lock.json
