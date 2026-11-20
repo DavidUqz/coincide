@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Generated reports
+coverage/
+benchmarks/out/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Environment variables (never committed)
+.env
+.env.*
+!.env.example
